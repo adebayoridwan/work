@@ -1,0 +1,121 @@
+
+
+.top {
+  width: 100%;
+ 
+  padding: 0;
+  border-bottom: 0px;
+  
+  
+ 
+    
+    background-color: #314b57;
+
+    
+ 
+}
+h3 {
+    color: white;
+    font-family: Roboto Slab;
+}
+h4 {
+    color: white;
+    font-family: Roboto Slab; 
+  
+    
+}
+
+
+.topa {
+  
+   display: inline-block;
+    padding-right: 1%;
+    padding-left: 1%;
+    text-align: center;
+   padding-bottom: 0%;
+    
+
+    
+}
+
+
+.top h3 {
+   padding-left: 1%;
+  margin-bottom: 1px;
+  display: block;
+  
+
+}
+
+
+
+.bot {
+    width: 100%;
+    
+    background-color: white;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    text-align: start;
+    justify-content: center;
+    margin-bottom: 2%;
+ 
+}
+.bota {
+    border: 0 30 0 0;
+    padding-right: 5%;
+    
+}
+
+h1 {
+    color: #ab3c3c;
+    font-family: Roboto Slab;
+}
+
+.third {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    padding-left: 0;
+    margin-left: 0px;
+    border-left: 0px;
+    
+    
+    text-align: start;
+ 
+}
+.thirda {
+   
+    border: 0 20 0 0;
+    display: grid;
+    padding-left: 1%;
+    padding-right: 2%;
+    margin-top: 0;
+    margin-bottom: 0;
+   
+    
+  
+  
+}
+
+.flex-container {
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+  }
+.bota a {
+    color: #ab3c3c;
+    text-decoration: none;
+}
+
+.third a {
+    color: #ab3c3c;
+
+}
+.thirda p {
+    width: 380px;
+}
+p {
+    font-family: helvetica, arial;
+    font-size: 0.875em;
+}
+
